@@ -1,1 +1,16 @@
+*this is a title
+** this is a subheading
+*this is bolded*
+/this is italicized/
+_this is underlined_
+this is a link: [[https://www.f1depo.com/urun/f450-drone-kiti-pixhawk-jetfire-full-drone-seti-10-kanal?srsltid=AfmBOorDNnNNAWeo1GZ5wYukt-esCNRDvrSKWTH1w3fQicqCT_9WFvPR][FA450 drone link
+]]
 
+
+bold - **
+italics - //
+subheading - **
+heading - *
+underline - _
+linking - [[][]]url goes first, name of the link goes after
+_
