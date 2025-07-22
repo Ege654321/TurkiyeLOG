@@ -1,0 +1,10 @@
+* Notes For F450 Drone
+
+** Basic Drone Propulsion
+- A quadcopter(4 propellors) of the F450 type requires 4 propellors, classified by the 450 mm / 45 cm distance between the center of the drone and the propellors.
+- Typically uses 4 brushless dc motors
+- ESC, controlled by the flight controller, the ESC directs the power to the motors and controls their output
+- 1x Battery
+  - Could use different types, but LiPo has a high power output for the cost
+    
+    
