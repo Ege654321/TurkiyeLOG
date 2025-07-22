@@ -1,4 +1,0 @@
-*this is the title, I made this at 7/22/2025
-**this is a subheading
-
-**this is bolded**
