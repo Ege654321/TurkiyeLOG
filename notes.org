@@ -13,5 +13,4 @@ _this is underlined_
 this is a link: [[https://www.f1depo.com/urun/f450-drone-kiti-pixhawk-jetfire-full-drone-seti-10-kanal?srsltid=AfmBOorDNnNNAWeo1GZ5wYukt-esCNRDvrSKWTH1w3fQicqCT_9WFvPR][FA450 drone link
 ]]
 
-.....
 
