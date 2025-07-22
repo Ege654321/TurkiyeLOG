@@ -1,7 +1,5 @@
 *this is the heading
 
-**this is subheading
-
 
 *this is bolded*
 
