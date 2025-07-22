@@ -1,10 +1,18 @@
 * Notes For F450 Drone
 
 ** Basic Drone Propulsion
-- A quadcopter(4 propellors) of the F450 type requires 4 propellors, classified by the 450 mm / 45 cm distance between the center of the drone and the propellors.
+- A quadcopter(4 propellers) of the F450 type requires 4 propellers, classified by the 450 mm / 45 cm distance between the center of the drone and the propellers.
 - Typically uses 4 brushless dc motors
-- ESC, controlled by the flight controller, the ESC directs the power to the motors and controls their output
+- ESC is an electronic speed controller and is controlled by the flight controller. The ESC directs the power to the motors and controls their output
 - 1x Battery
   - Could use different types, but LiPo has a high power output for the cost
+
+** Flight Controller
+- Pixhawk 2.4.8 flight controller is used for our application
+- Pixhawk reads sensor data from a GPS module and compass and inputs data into the Ardupilot firmware
+- Ardupilot is a firmware that fetches data from GPS modules and other data sensors and compiles them to figure out a track for the drone. The track can also be manipulated by the user.
+- Once Ardupilot decides the direction it is going in, the flight controller sends signal to the ESC's, which in turn power the motors.
+- Power Module: Although the pixhawk 2.4.8 can function through USB connection, it is necessary to use a power module with ~ 5.3 V of power to power it.
+- MicroSD card can also be attached to the flight controller to log data about the flight.
     
     
