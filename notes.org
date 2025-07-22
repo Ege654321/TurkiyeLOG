@@ -1,4 +1,4 @@
-**this is my heading
+*this is my heading
 
 
 ** this is a subheading
@@ -33,4 +33,5 @@ underline - _
 
 
 linking - [[][]]url goes first, name of the link goes after
-_
+
+
