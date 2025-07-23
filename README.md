@@ -1,9 +1,13 @@
 # TurkiyeLOG
 Turkiyede yapilan aktivitelerin logu burda bulunabilir
 
-Contentler:
+Content:
 
-Org mode testlerimi notes.org dosyasinda yapiyorum
+[ZaferUAV Research](https://github.com/Ege654321/TurkiyeLOG/blob/main/UAVnotes.org)
 
-Zafer UAV icin alinan notlar UAVnotes.org dosyasinda
+[Log](https://github.com/Ege654321/TurkiyeLOG/blob/main/Log.org)
+
+
+
+
 
