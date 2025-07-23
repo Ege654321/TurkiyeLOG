@@ -1,0 +1,7 @@
+* Summer Internship Log
+
+** 7/22/2025
+- Practiced Emacs org mode to create a notepage and log for what I've completed.
+- Took notes on the propulsion technology of the F450 drone type.
+- Took notes on the flight controller and data fetching sensors that are attached to drones.
+- Familiarized myself with software such as Ardupilot which assist in automating the drone flight.
