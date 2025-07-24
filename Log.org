@@ -17,3 +17,6 @@
 ** 7/24/2025
 - Read up on todays meeting notes
 - Took measurements and finalized 3D model of the servo housing and mounting bracket of the pickup and dropoff mechanism
+- Researched proper wiring and use of BEC's (Battery Eliminating Circuits)
+- Researched how to properly connect servos to the flight controller, and in turn control the servos with Ardupilot Mission Planner
+  
