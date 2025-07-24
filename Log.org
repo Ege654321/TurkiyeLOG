@@ -14,3 +14,6 @@
   - Using mission planner, I will have the drone go to a coordinate using waypoints and release the payload upon arrival.
     - During UAV flight days, someone always has to walk out to retrieve the drone after the flight, so this drone will be able to bring water and other necessary things to the person retrieving the UAV.
 
+** 7/24/2025
+- Read up on todays meeting notes
+- Took measurements and finalized 3D model of the servo housing and mounting bracket of the pickup and dropoff mechanism
