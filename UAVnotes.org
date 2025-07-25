@@ -15,4 +15,17 @@
 - Power Module: Although the pixhawk 2.4.8 can function through USB connection, it is necessary to use a power module with ~ 5.3 V of power to power it.
 - MicroSD card can also be attached to the flight controller to log data about the flight.
     
-    
+** Battery Eliminating Circuits
+[[https://www.fs-pcba.com/battery-eliminator-circuit/][FS TECH - BECs]]
+- Key Functions
+  - Voltage conversion and regulation
+  - Space saving and weight reduction
+  - Prevents overheating by minimizing heat generation
+
+- Reciever
+  - Interprets signals from the transmitter and directs the signal to the ESCs as necessary
+- ESC
+  - Controls motor speed and direction based on signals from reciever
+- Battery
+  - Directs power to the ESC's and therefore motors
+  - Power from the battery is also transmitted to servos using a BEC
