@@ -28,3 +28,7 @@
   - For my specific project, I will aim for 2:1
   - The thrust from our 4 motors is 2920 grams
     
+** 7/29/2025
+- Downloaded Slicer software and configured for the K1 MAX 3D printer by Creality
+- Began taking apart my assigned F450 drone to analyze the electronics and how to implement my modifications
+  - Appended to my notes on the path of electric current in drones

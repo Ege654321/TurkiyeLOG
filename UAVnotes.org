@@ -29,3 +29,16 @@
 - Battery
   - Directs power to the ESC's and therefore motors
   - Power from the battery is also transmitted to servos using a BEC
+** Path of Current in Drones
+- LiPo battery connects to the power module and supplies raw voltage to the power module
+  - Red is power, black grounds the current
+- Power module has two outputs
+  - One goes to the pixhawk 2.4.8 flight controller
+    - 1 red cable for power, multiple black ones for grounding and checking the current given to the flight controller
+    - Plugged into the power input on the flight controller
+    - The flight controller can then distribute this power to things like GPS and telemetry modules
+  - The other goes the PDB (Power Distributing Board)
+    - There, power is given by one power and one grounding wire, soldered onto the PDB
+    - ESC's are connected to the PBD by similar wiring, and take current from it and regulate it before delivering it to the motors
+      - However, to be able to do this, they need a signal from the flight controller
+      - The pixhawk 2.4.8 does it by delivering control signals from "MAIN OUT" outputs
