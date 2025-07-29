@@ -15,8 +15,16 @@
     - During UAV flight days, someone always has to walk out to retrieve the drone after the flight, so this drone will be able to bring water and other necessary things to the person retrieving the UAV.
 
 ** 7/24/2025
-- Read up on todays meeting notes
+- Read up on the 7/24 meeting notes
 - Took measurements and finalized 3D model of the servo housing and mounting bracket of the pickup and dropoff mechanism
 - Researched proper wiring and use of BEC's (Battery Eliminating Circuits)
 - Researched how to properly connect servos to the flight controller, and in turn control the servos with Ardupilot Mission Planner
   
+** 7/25/2025
+- Presented my drone project to the Zafer UAV team
+  - Outlined the process that I would take to fabricate my project
+  - Outlined the what my project would be good for
+- Researched thrust:weight ratio for optimal flight
+  - For my specific project, I will aim for 2:1
+  - The thrust from our 4 motors is 2920 grams
+    
