@@ -32,3 +32,10 @@
 - Downloaded Slicer software and configured for the K1 MAX 3D printer by Creality
 - Began taking apart my assigned F450 drone to analyze the electronics and how to implement my modifications
   - Appended to my notes on the path of electric current in drones
+** 7/30/2025
+- Figured out the wiring to take power from the ESC and use it to power the servo
+- Learned setup for pixhawk 2.4.8 for testing
+- Learned about LiPo batteries, and how to charge the 3S variant
+  - Checked their charge using a multimeter
+- Watched tutorials on how to connect servos to pixhawk 2.4.8
+- Reassembled drone
