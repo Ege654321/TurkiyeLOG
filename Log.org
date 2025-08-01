@@ -44,3 +44,8 @@
 - Watched tutorials on mission planner setup, and how to control servos through the AUX port
 - Took off propellers and prepared to wire the servo
 ** 8/1/2025
+- Fitted the wires onto the drone to prepare for the mounting of the servo
+  - Stripped 5mm off of the power and ground wires coming off of the ESC
+  - Attached two new cables to go from the ESC into AUX out 1, giving power to the servo
+- Finalized 3D design of the servos frame, and included the mounting bracket for the servo in the drawing
+- Picked out LiPo battery for flight, 3300 mAh, 3S, 40C
