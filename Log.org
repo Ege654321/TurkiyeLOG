@@ -39,3 +39,8 @@
   - Checked their charge using a multimeter
 - Watched tutorials on how to connect servos to pixhawk 2.4.8
 - Reassembled drone
+** 7/31/2025
+- Decided how to wire the servo and power it using the esc's wiring power and ground cables.
+- Watched tutorials on mission planner setup, and how to control servos through the AUX port
+- Took off propellers and prepared to wire the servo
+** 8/1/2025
