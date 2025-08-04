@@ -49,3 +49,9 @@
   - Attached two new cables to go from the ESC into AUX out 1, giving power to the servo
 - Finalized 3D design of the servos frame, and included the mounting bracket for the servo in the drawing
 - Picked out LiPo battery for flight, 3300 mAh, 3S, 40C
+** 8/4/2025
+- Soldered wires off of the esc, sapping power
+- Soldered new wires to the power and ground wires of the servo
+- Adjusted 3D drawing to fit the new chosen micro servo
+
+  
