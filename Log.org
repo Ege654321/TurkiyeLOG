@@ -54,4 +54,7 @@
 - Soldered new wires to the power and ground wires of the servo
 - Adjusted 3D drawing to fit the new chosen micro servo
 
-  
+** 8/6/2025
+- Setup VirtualBox and created a User
+- Began to prepare drone for flight by learning how to use the mission planner
+- Began to setup mission planner and pixhawk 2.4.8 for flight
