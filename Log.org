@@ -59,3 +59,17 @@
 - Began to prepare drone for flight by learning how to use the mission planner
 - Began to setup mission planner and pixhawk 2.4.8 for flight
 [[https://www.youtube.com/watch?v=CfQ-9MIHKkU&list=PLYsWjANuAm4r4idFZY24pP6s1K6ABMU0p&index=2][5 Video Playlist]]
+** 8/8/2025
+- Charged liPo battery for drone
+  - 6000 mAh, 3S battery
+- Connected transmitter and reciever and calibrated it to ardupilot mission planner
+- Did ESC calibration and GPS, gyroscope calibrations
+[[./images/IMG_3066.jpeg][Mission Planner Drone Calibration]]
+- 3D printed and put together pickup and drop off mechanism
+- Tested the servo by programming it to the AT9S transmitter and adjusting its values
+[[./images/IMG_3069.jpeg][Drone mechanism photo]]
+[[./images/IMG_3075.jpeg][Complete mechanism]]
+** 8/10/2025
+- 3 test flights took place before we lost control of the bigger drone to strong winds
+- The conditions were very bad for my drone so I couldn't fly
+[[./images/IMG_3096.jpeg][Group Photo]]
